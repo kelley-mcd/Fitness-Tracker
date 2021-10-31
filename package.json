@@ -13,7 +13,19 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "mongoose": "^5.3.16",
+    "mongo": "^0.1.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^4.1.3",
+    "mongoose": "^5.13.12",
     "morgan": "^1.9.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelley-mcd/Fitness-Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kelley-mcd/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/kelley-mcd/Fitness-Tracker#readme"
 }

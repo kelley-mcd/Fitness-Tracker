@@ -4,8 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelley-mcd/Fitness-Tracker"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelley-mcd/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/kelley-mcd/Fitness-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15"
+  }
 }
